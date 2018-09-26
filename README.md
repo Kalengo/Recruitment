@@ -59,8 +59,8 @@ MongoDB亿量级别数据的处理以及运用，摇身一变成为“高级砖�
 我们诚挚邀请你的加入欢迎有想法、有追求的你加入我们!
 看到这里，或许你对我们的职位感兴趣，那我们可以先来个简单的了解。
 
-Node.js开发工程师，相关介绍：https://www.lagou.com/jobs/4727816.html?source=pl&i=pl-1
-如果你钟意我，请将你的简历发到邮箱处：jobs@kalengo.com
+Node.js开发工程师，相关介绍：https://www.lagou.com/jobs/4727816.html?source=pl&i=pl-1  
+如果你钟意我，请将你的简历发到邮箱处：jobs@kalengo.com  
 或者你可以直接打电话呼唤我们：020-84124551.  
 诚邀你的加入。
 
